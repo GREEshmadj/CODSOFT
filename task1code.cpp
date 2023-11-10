@@ -19,7 +19,7 @@ int main() {
             cout<<"try again dear"<<endl;
 
         }
-        else if
+        else if(ran > userno)
         {
             cout<<"its too low from the number in my mind"<<endl;
             cout<<"try again dear"<<endl;
